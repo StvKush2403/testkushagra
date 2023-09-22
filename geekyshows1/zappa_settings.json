@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "aws_region": "ap-south-1",
+        "django_settings": "geekyshows1.settings",
+        "profile_name": "default",
+        "project_name": "geekyshows1",
+        "runtime": "python3.10",
+        "s3_bucket": "zappa-iq605fo38"
+    }
+}
